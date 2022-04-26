@@ -1,0 +1,1 @@
+En este curso espero ganar experiencia y sobre todo: aprender las bases mas importantes de Java, tambien Spring Boot y la logica de Backend con la que nunca he trabajado.
